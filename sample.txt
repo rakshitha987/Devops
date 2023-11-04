@@ -1,1 +1,2 @@
 Devops assignment
+In detail explaination is given in "README"
